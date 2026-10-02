@@ -1,7 +1,5 @@
-<h1 align="center">Olá, sou a Elisa 👩‍💻</h1>
-
 <p align="center">
-  <b>QA Automation | Testes de Software | Automação de Testes</b>
+  <img src="banner.png" alt="Elisa Vênica - QA Automation" width="100%" />
 </p>
 
 - 🤖 Focada em automação de testes, para tornar as entregas mais rápidas e confiáveis
